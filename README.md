@@ -1,7 +1,8 @@
 # Getting Started with the WPF-DataGrid of Syncfusion
 This sample contains a simple DataGrid with datacollection bound to it and few of its basic features like sorting, filtering, grouping and selection are enabled.
 
-Watch the video now: https://www.syncfusion.com/tutorial-videos/wpf/data-grid
+Watch the video now: https://www.syncfusion.com/tutorial-videos/wpf/data-grid 
+
 Documentation: https://help.syncfusion.com/wpf/datagrid/getting-started
 
 ## Project pre-requisites
