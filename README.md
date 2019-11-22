@@ -15,6 +15,4 @@ You can install the DataGrid Assemblies from Syncfusion nuget packages.
 Follow the below steps to install assemblies from nuget
 * Go to the References option in the project.
 * Right-click the References option and choose Manage NuGet Packages option from the menu that will display a window.
-* Now click the settings icon and in the options search for Nuget Package Manager.
-* In the package source, add the Syncfusion package manager source https://api.nuget.org/v3/index.json
-* From the above source install Syncfusion.SfGrid.WPF nuget.
+* Now serach for Syncfusion.SfGrid.WPF nuget and install .
